@@ -1,4 +1,8 @@
-br/edu/ifsul/testes/TesteAlterarRaca.class
-br/edu/ifsul/testes/TestePersistirRaca.class
-br/edu/ifsul/testes/TesteListarRaca.class
-br/edu/ifsul/testes/TesteRemoverRaca.class
+br\edu\ifsul\testes\TesteAlterarPet.class
+br\edu\ifsul\testes\TestePersistirRaca.class
+br\edu\ifsul\testes\TesteRemoverPet.class
+br\edu\ifsul\testes\TesteAlterarRaca.class
+br\edu\ifsul\testes\TestePersistirPet.class
+br\edu\ifsul\testes\TesteRemoverRaca.class
+br\edu\ifsul\testes\TesteListarRaca.class
+br\edu\ifsul\testes\TesteListarPet.class
